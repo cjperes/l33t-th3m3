@@ -13,4 +13,3 @@
 2)Open Extension Manager by clicking File, then Extension Manager, Then drag modern-l33t-theme.zip into the box labeled 'Drag.zip here or Install from URL'.
 <h1>How To Use</h1>
 Open the Themes menu by clicking View>Themes
-<footer>Licensa MIT</footer>
