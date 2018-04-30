@@ -2,7 +2,7 @@
 Esquema de cores
  */
 .cm-string {
-    color: #1302f0;
+    color: #a969ac;
 }
 
 .cm-error {
@@ -18,7 +18,7 @@ Esquema de cores
 .cm-atom,
 .cm-number,
 .cm-link {
-    color: #1302f0;
+    color: #645bdf;
 }
 
 .cm-property,
@@ -52,10 +52,6 @@ Esquema de cores
 /**
  * User Interface
  * ==============
- *
- * @TODO Matching words
- * @TODO Scrollbars
- * @TODO Find highlights
  */
 .CodeMirror,
 .CodeMirror .CodeMirror-scroll {
@@ -75,7 +71,7 @@ Esquema de cores
 }
 
 div.CodeMirror-selected {
-    background: #de00ff !important;
+    background: #424242 !important;
 }
 
 .CodeMirror-gutters {
@@ -126,51 +122,4 @@ div.CodeMirror-selected {
     padding-bottom: 0.166em;
 }
 
-/**
- * Extensions
- * ==========
- */
 
-/*
- * Brackets-Vim (https://github.com/megalord/brackets-vim)
- * -------------------------------------------------------
- */
-.CodeMirror.cm-keymap-fat-cursor div.CodeMirror-cursor {
-    background: rgba(248, 248, 242, 0.5) !important;
-}
-
-/**
- * Show Whitespace (https://github.com/DennisKehrig/brackets-show-whitespace)
- * --------------------------------------------------------------------------
- */
-.CodeMirror .cm-dk-whitespace-space::before,
-.CodeMirror .cm-dk-whitespace-tab::before,
-.CodeMirror .cm-dk-whitespace-leading-space::before,
-.CodeMirror .cm-dk-whitespace-leading-tab::before,
-.CodeMirror .cm-dk-whitespace-trailing-space::before,
-.CodeMirror .cm-dk-whitespace-trailing-tab::before {
-    background-color: #75715E !important;
-}
-
-/**
- * Code Folding (https://github.com/thehogfather/brackets-code-folding)
- * --------------------------------------------------------------------
- */
-.CodeMirror-foldgutter,
-.CodeMirror-foldgutter,
-.CodeMirror-foldgutter-blank,
-.CodeMirror-foldgutter-folded,
-.CodeMirror-foldgutter-open {
-    color: #75715E;
-}
-
-.CodeMirror-foldgutter-open::after {
-    content: "\25bd";
-}
-
-.CodeMirror-foldmarker {
-    background-color: #333;
-    border-color: #555;
-    color: #555;
-    padding: 0 10px;
-}
