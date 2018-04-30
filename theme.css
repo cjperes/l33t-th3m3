@@ -1,8 +1,8 @@
-/*
-Esquema de cores
- */
+/* Tema criado por Caio Peres (https://github.com/cjperes/modern-l33t-theme) */
+
+/* Esquema de cores */
 .cm-string {
-    color: #a969ac;
+    color: #fdb415;
 }
 
 .cm-error {
@@ -85,7 +85,7 @@ div.CodeMirror-selected {
 }
 
 .CodeMirror-guttermarker-subtle {
-    color: #000;
+    color: #212121;
 }
 
 .CodeMirror-linenumber {
