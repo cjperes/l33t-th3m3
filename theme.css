@@ -12,13 +12,13 @@ Esquema de cores
 
 .cm-meta,
 .cm-comment {
-    color: #75715E;
+    color: #878787;
 }
 
 .cm-atom,
 .cm-number,
 .cm-link {
-    color: #7800ff;
+    color: #1302f0;
 }
 
 .cm-property,
@@ -75,7 +75,7 @@ Esquema de cores
 }
 
 div.CodeMirror-selected {
-    background: #f6ff00 !important;
+    background: #de00ff !important;
 }
 
 .CodeMirror-gutters {
