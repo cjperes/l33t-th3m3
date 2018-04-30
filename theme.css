@@ -6,8 +6,8 @@ Esquema de cores
 }
 
 .cm-error {
-    background: #F92672;
-    color: #F8F8F2 !important;
+    background: #e80b0b;
+    color: #000 !important;
 }
 
 .cm-meta,
@@ -24,13 +24,13 @@ Esquema de cores
 .cm-property,
 .cm-attribute,
 .cm-keyword {
-    color: #66D9EF;
+    color: #ff0078;
 }
 
 .cm-string.cm-property,
 .cm-variable,
 .cm-variable-2 {
-    color: #F8F8F2;
+    color: #ff0078;
 }
 
 .cm-variable-3,
@@ -75,7 +75,7 @@ Esquema de cores
 }
 
 div.CodeMirror-selected {
-    background: #444 !important;
+    background: #f6ff00 !important;
 }
 
 .CodeMirror-gutters {
