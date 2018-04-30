@@ -36,7 +36,7 @@ Esquema de cores
 .cm-variable-3,
 .cm-qualifier,
 .cm-builtin {
-    color: #A6E22E;
+    color: #5aff00;
 }
 
 .cm-operator,
@@ -59,7 +59,7 @@ Esquema de cores
  */
 .CodeMirror,
 .CodeMirror .CodeMirror-scroll {
-    background: #222;
+    background: #5aff00;
     color: #F8F8F2;
 }
 
