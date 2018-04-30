@@ -75,7 +75,7 @@ div.CodeMirror-selected {
 }
 
 .CodeMirror-gutters {
-    background: #212121;
+    background: #000;
     border-right: 0px;
     color: #5aff00;
 }
