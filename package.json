@@ -1,0 +1,20 @@
+{
+    "title": "l33t-th3m3",
+    "name": "l33t-th3m3",
+    "description": "Dark theme, based in ",
+    "version": "1.0.0",
+    "author": "Caio Peres <caiojperes@gmail.com> (http://www.nork.digital)",
+    "homepage": "https://github.com/Brackets-Themes/Monokai",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Theme/Monokai.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
