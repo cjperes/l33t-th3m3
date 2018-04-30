@@ -89,7 +89,7 @@ div.CodeMirror-selected {
 }
 
 .CodeMirror-guttermarker-subtle {
-    color: #5aff00;
+    color: #000;
 }
 
 .CodeMirror-linenumber {
