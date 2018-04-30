@@ -81,6 +81,7 @@ div.CodeMirror-selected {
 .CodeMirror-gutters {
     background: #000;
     border-right: 5px;
+    color: 5aff00;
 }
 
 .CodeMirror-guttermarker {
@@ -88,7 +89,7 @@ div.CodeMirror-selected {
 }
 
 .CodeMirror-guttermarker-subtle {
-    color: #000;
+    color: #5aff00;
 }
 
 .CodeMirror-linenumber {
